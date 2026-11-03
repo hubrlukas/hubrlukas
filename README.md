@@ -7,7 +7,6 @@
 
 ### 🎨 Graphic Design & 3D Portfolio
 * 🖼️ **[3D & Graphic Design Portfolio (Repository)](https://github.com/hubrlukas/design_portfolio)** – Previews of my Blender 3D models and graphic design work.
-* 📄 **[Download Full Graphic Portfolio (PDF)](ZDE_VLOZ_ODKAZ_NA_TVOJE_PDF)**
 
 ---
 
